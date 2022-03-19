@@ -1,1 +1,2 @@
-/ts/lambda/hello-serverless/deploy/node_modules/
+node_modules/
+cdk.out/
